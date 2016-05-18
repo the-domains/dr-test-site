@@ -1,0 +1,14 @@
+layout_spectrum: 0.45914745959453285
+typography_spectrum: 0.2562531395815313
+color:
+  brandStrength: 0.14874828164465725
+  lightness: 0.9009451682213694
+  saturation: 0.9880636127199978
+  rhythmicContrast: 0.8320542550645769
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: dr-test-site
